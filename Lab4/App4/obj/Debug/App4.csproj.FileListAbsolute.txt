@@ -1,0 +1,26 @@
+D:\Учёба\C#\Lab4\App4\bin\Debug\App4.exe.config
+D:\Учёба\C#\Lab4\App4\bin\Debug\App4.exe
+D:\Учёба\C#\Lab4\App4\bin\Debug\App4.pdb
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.csproj.AssemblyReference.cache
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.MainForm.resources
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.Form2.resources
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.Properties.Resources.resources
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.csproj.GenerateResource.cache
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.exe
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.pdb
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.MiddleForm.resources
+D:\Учёба\C#\Lab4\App4\obj\Debug\App4.HardForm.resources
+C:\Users\class\Desktop\Новая папка\Lab4\App4\bin\Debug\App4.exe.config
+C:\Users\class\Desktop\Новая папка\Lab4\App4\bin\Debug\App4.exe
+C:\Users\class\Desktop\Новая папка\Lab4\App4\bin\Debug\App4.pdb
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.csproj.AssemblyReference.cache
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.MainForm.resources
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.Form2.resources
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.MiddleForm.resources
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.HardForm.resources
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.Properties.Resources.resources
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.csproj.GenerateResource.cache
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.exe
+C:\Users\class\Desktop\Новая папка\Lab4\App4\obj\Debug\App4.pdb

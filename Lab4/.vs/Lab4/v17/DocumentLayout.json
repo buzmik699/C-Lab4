@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9643F-1CD1-4F55-A717-882B5B87DCC5}|App6\\App6.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79F9643F-1CD1-4F55-A717-882B5B87DCC5}|App6\\App6.csproj|solutionrelative:app6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF2D55E-F14D-4573-B26C-2AFED1A36284}|Ex4\\Ex4.csproj|c:\\users\\maxim\\downloads\\telegram desktop\\lab4\\ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF2D55E-F14D-4573-B26C-2AFED1A36284}|Ex4\\Ex4.csproj|solutionrelative:ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19441E39-F26E-41DA-842C-8B41694285A4}|App4\\App4.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19441E39-F26E-41DA-842C-8B41694285A4}|App4\\App4.csproj|solutionrelative:app4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A60DE-8C56-47F4-B36B-AD5400E09B04}|App3\\App3.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A60DE-8C56-47F4-B36B-AD5400E09B04}|App3\\App3.csproj|solutionrelative:app3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9643F-1CD1-4F55-A717-882B5B87DCC5}|App6\\App6.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9643F-1CD1-4F55-A717-882B5B87DCC5}|App6\\App6.csproj|solutionrelative:app6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F9643F-1CD1-4F55-A717-882B5B87DCC5}|App6\\App6.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F9643F-1CD1-4F55-A717-882B5B87DCC5}|App6\\App6.csproj|solutionrelative:app6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E83C13-45F1-4F39-8892-B7DCDD9A6555}|App8\\App8.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E83C13-45F1-4F39-8892-B7DCDD9A6555}|App8\\App8.csproj|solutionrelative:app8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F89B2C-971A-4028-B149-C444AB1084C8}|App7\\App7.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F89B2C-971A-4028-B149-C444AB1084C8}|App7\\App7.csproj|solutionrelative:app7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7F427B-B1CA-438C-A458-68AD1B70E4A1}|App9\\App9.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\app9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7F427B-B1CA-438C-A458-68AD1B70E4A1}|App9\\App9.csproj|solutionrelative:app9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D24087-26C3-4958-9AC1-3910F231505E}|Ex1\\Ex1.csproj|C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\ex1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D24087-26C3-4958-9AC1-3910F231505E}|Ex1\\Ex1.csproj|solutionrelative:ex1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\Ex4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ex4\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\Ex4\\Form1.cs",
+              "RelativeToolTip": "Ex4\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:23:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App4\\Form1.cs",
+              "RelativeDocumentMoniker": "App4\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App4\\Form1.cs",
+              "RelativeToolTip": "App4\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:22:37.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App3\\Form1.cs",
+              "RelativeDocumentMoniker": "App3\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App3\\Form1.cs",
+              "RelativeToolTip": "App3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:22:31.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App6\\Form2.cs",
+              "RelativeDocumentMoniker": "App6\\Form2.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App6\\Form2.cs",
+              "RelativeToolTip": "App6\\Form2.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:06:13.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App6\\Form1.cs",
+              "RelativeDocumentMoniker": "App6\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App6\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App6\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:04:03.567Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App6\\Form1.cs",
+              "RelativeDocumentMoniker": "App6\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App6\\Form1.cs",
+              "RelativeToolTip": "App6\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:03:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App8\\Form1.cs",
+              "RelativeDocumentMoniker": "App8\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App8\\Form1.cs",
+              "RelativeToolTip": "App8\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:03:27.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App7\\Form1.cs",
+              "RelativeDocumentMoniker": "App7\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App7\\Form1.cs",
+              "RelativeToolTip": "App7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:03:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App9\\Form1.cs",
+              "RelativeDocumentMoniker": "App9\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\App9\\Form1.cs",
+              "RelativeToolTip": "App9\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:02:12.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\Ex1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ex1\\Form1.cs",
+              "ToolTip": "C:\\Users\\maxim\\Downloads\\Telegram Desktop\\Lab4\\Ex1\\Form1.cs",
+              "RelativeToolTip": "Ex1\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:01:55.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

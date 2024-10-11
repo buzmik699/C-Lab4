@@ -1,0 +1,10 @@
+D:\Учёба\C#\Lab4\App9\obj\Debug\App9.csproj.AssemblyReference.cache
+D:\Учёба\C#\Lab4\App9\obj\Debug\App9.MainForm.resources
+D:\Учёба\C#\Lab4\App9\obj\Debug\App9.Properties.Resources.resources
+D:\Учёба\C#\Lab4\App9\obj\Debug\App9.csproj.GenerateResource.cache
+D:\Учёба\C#\Lab4\App9\obj\Debug\App9.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Lab4\App9\bin\Debug\App9.exe.config
+D:\Учёба\C#\Lab4\App9\bin\Debug\App9.exe
+D:\Учёба\C#\Lab4\App9\bin\Debug\App9.pdb
+D:\Учёба\C#\Lab4\App9\obj\Debug\App9.exe
+D:\Учёба\C#\Lab4\App9\obj\Debug\App9.pdb
