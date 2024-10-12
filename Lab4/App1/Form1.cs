@@ -48,6 +48,12 @@ namespace App1
                     data = double.Parse(CentiMTextBox.Text) * 100;
                 }
                 if (sm.Checked) data = double.Parse(CentiMTextBox.Text);
+                if (data < 0)
+                {
+                    MessageBox.Show("Значение не может быть отрицательным", "Ошибка",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return; // Прекращаем выполнение метода
+                }
             }
             catch
             {
