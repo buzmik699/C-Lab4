@@ -103,8 +103,6 @@
             this.Controls.Add(this.LevelGroupBox);
             this.Name = "MainForm";
             this.Text = "Игра - Клавиши";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.LevelGroupBox.ResumeLayout(false);
             this.LevelGroupBox.PerformLayout();
             this.ResumeLayout(false);

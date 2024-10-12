@@ -1,0 +1,9 @@
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\bin\Debug\FractalTriangle.exe.config
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\bin\Debug\FractalTriangle.exe
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\bin\Debug\FractalTriangle.pdb
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\obj\Debug\FractalTriangle.csproj.AssemblyReference.cache
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\obj\Debug\FractalTriangle.Properties.Resources.resources
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\obj\Debug\FractalTriangle.csproj.GenerateResource.cache
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\obj\Debug\FractalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\obj\Debug\FractalTriangle.exe
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\FractalTriangle\obj\Debug\FractalTriangle.pdb

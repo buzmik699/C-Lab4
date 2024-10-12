@@ -71,7 +71,7 @@
             this.MetrButton.Location = new System.Drawing.Point(44, 130);
             this.MetrButton.Margin = new System.Windows.Forms.Padding(5);
             this.MetrButton.Name = "MetrButton";
-            this.MetrButton.Size = new System.Drawing.Size(105, 24);
+            this.MetrButton.Size = new System.Drawing.Size(141, 33);
             this.MetrButton.TabIndex = 15;
             this.MetrButton.TabStop = true;
             this.MetrButton.Text = "в метрах";
@@ -84,7 +84,7 @@
             this.SanButton.Location = new System.Drawing.Point(44, 107);
             this.SanButton.Margin = new System.Windows.Forms.Padding(5);
             this.SanButton.Name = "SanButton";
-            this.SanButton.Size = new System.Drawing.Size(154, 24);
+            this.SanButton.Size = new System.Drawing.Size(205, 33);
             this.SanButton.TabIndex = 14;
             this.SanButton.TabStop = true;
             this.SanButton.Text = "в сантиметрах";
@@ -97,7 +97,7 @@
             this.YardRadioButton.Location = new System.Drawing.Point(44, 83);
             this.YardRadioButton.Margin = new System.Windows.Forms.Padding(5);
             this.YardRadioButton.Name = "YardRadioButton";
-            this.YardRadioButton.Size = new System.Drawing.Size(95, 24);
+            this.YardRadioButton.Size = new System.Drawing.Size(122, 33);
             this.YardRadioButton.TabIndex = 13;
             this.YardRadioButton.TabStop = true;
             this.YardRadioButton.Text = "в ярдах";
@@ -110,7 +110,7 @@
             this.FootRadioButton.Location = new System.Drawing.Point(44, 59);
             this.FootRadioButton.Margin = new System.Windows.Forms.Padding(5);
             this.FootRadioButton.Name = "FootRadioButton";
-            this.FootRadioButton.Size = new System.Drawing.Size(97, 24);
+            this.FootRadioButton.Size = new System.Drawing.Size(126, 33);
             this.FootRadioButton.TabIndex = 12;
             this.FootRadioButton.TabStop = true;
             this.FootRadioButton.Text = "в футах";
@@ -124,7 +124,7 @@
             this.InchRadioButton.Location = new System.Drawing.Point(44, 39);
             this.InchRadioButton.Margin = new System.Windows.Forms.Padding(5);
             this.InchRadioButton.Name = "InchRadioButton";
-            this.InchRadioButton.Size = new System.Drawing.Size(110, 24);
+            this.InchRadioButton.Size = new System.Drawing.Size(146, 33);
             this.InchRadioButton.TabIndex = 11;
             this.InchRadioButton.TabStop = true;
             this.InchRadioButton.Text = "в дюймах";
@@ -140,7 +140,7 @@
             this.ResultTextBox.Location = new System.Drawing.Point(232, 37);
             this.ResultTextBox.Margin = new System.Windows.Forms.Padding(5);
             this.ResultTextBox.Name = "ResultTextBox";
-            this.ResultTextBox.Size = new System.Drawing.Size(104, 26);
+            this.ResultTextBox.Size = new System.Drawing.Size(104, 33);
             this.ResultTextBox.TabIndex = 10;
             this.ResultTextBox.Text = "0";
             this.ResultTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -153,7 +153,7 @@
             this.CentiMTextBox.Location = new System.Drawing.Point(232, 37);
             this.CentiMTextBox.Margin = new System.Windows.Forms.Padding(5);
             this.CentiMTextBox.Name = "CentiMTextBox";
-            this.CentiMTextBox.Size = new System.Drawing.Size(103, 26);
+            this.CentiMTextBox.Size = new System.Drawing.Size(103, 33);
             this.CentiMTextBox.TabIndex = 7;
             this.CentiMTextBox.Text = "0";
             this.CentiMTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -182,7 +182,7 @@
             this.mt.Location = new System.Drawing.Point(44, 130);
             this.mt.Margin = new System.Windows.Forms.Padding(5);
             this.mt.Name = "mt";
-            this.mt.Size = new System.Drawing.Size(105, 24);
+            this.mt.Size = new System.Drawing.Size(141, 33);
             this.mt.TabIndex = 15;
             this.mt.TabStop = true;
             this.mt.Text = "в метрах";
@@ -195,7 +195,7 @@
             this.sm.Location = new System.Drawing.Point(44, 107);
             this.sm.Margin = new System.Windows.Forms.Padding(5);
             this.sm.Name = "sm";
-            this.sm.Size = new System.Drawing.Size(154, 24);
+            this.sm.Size = new System.Drawing.Size(205, 33);
             this.sm.TabIndex = 14;
             this.sm.TabStop = true;
             this.sm.Text = "в сантиметрах";
@@ -208,7 +208,7 @@
             this.yr.Location = new System.Drawing.Point(44, 83);
             this.yr.Margin = new System.Windows.Forms.Padding(5);
             this.yr.Name = "yr";
-            this.yr.Size = new System.Drawing.Size(95, 24);
+            this.yr.Size = new System.Drawing.Size(122, 33);
             this.yr.TabIndex = 13;
             this.yr.TabStop = true;
             this.yr.Text = "в ярдах";
@@ -221,7 +221,7 @@
             this.ft.Location = new System.Drawing.Point(44, 59);
             this.ft.Margin = new System.Windows.Forms.Padding(5);
             this.ft.Name = "ft";
-            this.ft.Size = new System.Drawing.Size(97, 24);
+            this.ft.Size = new System.Drawing.Size(126, 33);
             this.ft.TabIndex = 12;
             this.ft.TabStop = true;
             this.ft.Text = "в футах";
@@ -235,7 +235,7 @@
             this.dm.Location = new System.Drawing.Point(44, 39);
             this.dm.Margin = new System.Windows.Forms.Padding(5);
             this.dm.Name = "dm";
-            this.dm.Size = new System.Drawing.Size(110, 24);
+            this.dm.Size = new System.Drawing.Size(146, 33);
             this.dm.TabIndex = 11;
             this.dm.TabStop = true;
             this.dm.Text = "в дюймах";
@@ -257,9 +257,9 @@
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(761, 305);
+            this.ClientSize = new System.Drawing.Size(799, 320);
             this.Controls.Add(this.ExecuteButton);
             this.Controls.Add(this.DataGroupBox);
             this.Controls.Add(this.v);

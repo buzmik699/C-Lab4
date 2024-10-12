@@ -18,3 +18,13 @@ C:\Users\class\Desktop\Новая папка\Lab4\App7\obj\Debug\App7.csproj.Gen
 C:\Users\class\Desktop\Новая папка\Lab4\App7\obj\Debug\App7.csproj.CoreCompileInputs.cache
 C:\Users\class\Desktop\Новая папка\Lab4\App7\obj\Debug\App7.exe
 C:\Users\class\Desktop\Новая папка\Lab4\App7\obj\Debug\App7.pdb
+C:\Users\buzmi\source\repos\C-Lab4\App7\bin\Debug\App7.exe.config
+C:\Users\buzmi\source\repos\C-Lab4\App7\bin\Debug\App7.exe
+C:\Users\buzmi\source\repos\C-Lab4\App7\bin\Debug\App7.pdb
+C:\Users\buzmi\source\repos\C-Lab4\App7\obj\Debug\App7.csproj.AssemblyReference.cache
+C:\Users\buzmi\source\repos\C-Lab4\App7\obj\Debug\App7.MainForm.resources
+C:\Users\buzmi\source\repos\C-Lab4\App7\obj\Debug\App7.Properties.Resources.resources
+C:\Users\buzmi\source\repos\C-Lab4\App7\obj\Debug\App7.csproj.GenerateResource.cache
+C:\Users\buzmi\source\repos\C-Lab4\App7\obj\Debug\App7.csproj.CoreCompileInputs.cache
+C:\Users\buzmi\source\repos\C-Lab4\App7\obj\Debug\App7.exe
+C:\Users\buzmi\source\repos\C-Lab4\App7\obj\Debug\App7.pdb

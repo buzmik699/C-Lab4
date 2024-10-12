@@ -8,3 +8,13 @@ D:\Учёба\C#\Lab4\App9\bin\Debug\App9.exe
 D:\Учёба\C#\Lab4\App9\bin\Debug\App9.pdb
 D:\Учёба\C#\Lab4\App9\obj\Debug\App9.exe
 D:\Учёба\C#\Lab4\App9\obj\Debug\App9.pdb
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\bin\Debug\App9.exe.config
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\bin\Debug\App9.exe
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\bin\Debug\App9.pdb
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\obj\Debug\App9.csproj.AssemblyReference.cache
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\obj\Debug\App9.MainForm.resources
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\obj\Debug\App9.Properties.Resources.resources
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\obj\Debug\App9.csproj.GenerateResource.cache
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\obj\Debug\App9.csproj.CoreCompileInputs.cache
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\obj\Debug\App9.exe
+C:\Users\buzmi\source\repos\C-Lab4\Lab4\App9\obj\Debug\App9.pdb
