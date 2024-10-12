@@ -124,6 +124,23 @@ namespace App7
                 if (y1 - CheezeBox.Height < 0) y1 += CheezeBox.Height;
 
                 CheezeBox.Location = new Point(x1, y1);
+
+                if (Math.Abs(x1 - mx) < CheezeBox.Width / 2 && Math.Abs(y1 - my) < CheezeBox.Height / 2)
+                {
+                    eat++;
+                    x1 = Rand.Next(x);
+                    y1 = Rand.Next(y);
+
+                    if (x1 + CheezeBox.Width > this.ClientSize.Width) x1 -= CheezeBox.Width;
+                    if (y1 + CheezeBox.Height > this.ClientSize.Height) y1 -= CheezeBox.Height;
+                    if (x1 - CheezeBox.Width < 0) x1 += CheezeBox.Width;
+                    if (y1 - CheezeBox.Height < 0) y1 += CheezeBox.Height;
+
+                    Graph.DrawString("Вы cъели сыр", MyFont, Brushes.Black, 50, 50);
+
+
+                    CheezeBox.Location = new Point(x1, y1);
+                }
             }
         }
     }

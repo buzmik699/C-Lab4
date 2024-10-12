@@ -35,7 +35,6 @@
             // 
             // timer1
             // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // InfoLabel
             // 
@@ -55,7 +54,6 @@
             this.Name = "MiddleForm";
             this.Text = "Игра";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MiddleForm_FormClosing);
-            this.Load += new System.EventHandler(this.MiddleForm_Load);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.MiddleForm_KeyPress);
             this.ResumeLayout(false);
             this.PerformLayout();

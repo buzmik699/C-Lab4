@@ -48,7 +48,6 @@
             this.Controls.Add(this.InfoLabel);
             this.Name = "Form2";
             this.Text = "Игра";
-            this.Load += new System.EventHandler(this.Form2_Load);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Form2_KeyPress);
             this.ResumeLayout(false);
             this.PerformLayout();
